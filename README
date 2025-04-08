@@ -1,4 +1,4 @@
 The sun is leaking...
 
-Anyway, this is just a simple front end for wg-quick. Make it executable on your Linux machine, and point it to the .conf file you want it to run.
-Then you should have a nice GUI.
+Anyway, this is just a simple front end for wg-quick. Make it executable on your Linux machine,
+and point it to the .conf file you want it to run. Then you should have a nice GUI.
