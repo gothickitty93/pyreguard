@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 
-#PyreGuard by gothickitty93
+# PyreGuard © 2025 by gothickitty93 is licensed under CC BY-NC-SA 4.0 
+
 import subprocess
 import tkinter as tk
 from tkinter import messagebox
